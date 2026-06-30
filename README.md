@@ -2,11 +2,11 @@
 
 > **AI-powered conventional commit messages, right from your terminal.**
 
-[![PyPI version](https://badge.fury.io/py/gitpulse.svg)](https://badge.fury.io/py/gitpulse)
-[![PyPI downloads](https://img.shields.io/pypi/dm/gitpulse.svg)](https://pypi.org/project/gitpulse/)
+[![PyPI version](https://badge.fury.io/py/gitpulse-commit.svg)](https://badge.fury.io/py/gitpulse-commit)
+[![PyPI downloads](https://img.shields.io/pypi/dm/gitpulse-commit.svg)](https://pypi.org/project/gitpulse-commit/)
 [![GitHub stars](https://img.shields.io/github/stars/erico964-blip/gitpulse?style=social)](https://github.com/erico964-blip/gitpulse/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python versions](https://img.shields.io/pypi/pyversions/gitpulse.svg)](https://pypi.org/project/gitpulse/)
+[![Python versions](https://img.shields.io/pypi/pyversions/gitpulse-commit.svg)](https://pypi.org/project/gitpulse-commit/)
 
 ![Demo GIF placeholder](https://via.placeholder.com/800x400?text=Git+Pulse+Demo)
 
@@ -31,7 +31,7 @@ Stop struggling with commit messages. **Git Pulse** reads your staged changes, a
 ### 1. Install
 
 ```bash
-pip install gitpulse
+pip install gitpulse-commit
 ```
 
 ### 2. Configure your AI provider
