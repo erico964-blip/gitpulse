@@ -105,6 +105,11 @@ def main():
     parser = argparse.ArgumentParser(
         description="git-pulse: AI conventional commit message generator"
     )
+    parser.add_argument(
+        "--version",
+        action="version",
+        version=f"gitpulse {__import__('gitpulse').__version__}",
+    )
     subparsers = parser.add_subparsers(dest="command")
 
     # generate subcommand (also used as default)

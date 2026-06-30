@@ -3,8 +3,10 @@
 > **AI-powered conventional commit messages, right from your terminal.**
 
 [![PyPI version](https://badge.fury.io/py/gitpulse.svg)](https://badge.fury.io/py/gitpulse)
-[![GitHub stars](https://img.shields.io/github/stars/erico964-blip/gitpulse?style=social)](https://github.com/erico964-blip/gitpulse)
+[![PyPI downloads](https://img.shields.io/pypi/dm/gitpulse.svg)](https://pypi.org/project/gitpulse/)
+[![GitHub stars](https://img.shields.io/github/stars/erico964-blip/gitpulse?style=social)](https://github.com/erico964-blip/gitpulse/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python versions](https://img.shields.io/pypi/pyversions/gitpulse.svg)](https://pypi.org/project/gitpulse/)
 
 ![Demo GIF placeholder](https://via.placeholder.com/800x400?text=Git+Pulse+Demo)
 
