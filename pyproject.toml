@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=64", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "gitpulse"
+version = "0.1.0"
+description = "AI-powered conventional commit message generator"
+readme = "README.md"
+license = {file = "LICENSE"}
+authors = [{name = "erico964-blip", email = "erico964@gmail.com"}]
+requires-python = ">=3.8"
+dependencies = [
+    "requests>=2.25",
+]
+
+[project.scripts]
+git-pulse = "gitpulse.cli:main"
